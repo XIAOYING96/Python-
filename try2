@@ -4,8 +4,8 @@ c = 2 + 4j
 d = 'hello, world'
 e = True
 
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
-print(type(e))
+print(type(a))  // <class 'int'>
+print(type(b))  // <class 'float'>
+print(type(c))  // <class 'complex'>
+print(type(d))  // <class 'str'>
+print(type(e))  // <class 'bool'>
